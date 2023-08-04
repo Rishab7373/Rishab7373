@@ -1,4 +1,4 @@
- ![logo](https://github.com/Rishab7373/Rishab7373/blob/main/computer%20Science%20Engineer%20(1).png)
+![logo](https://github.com/Rishab7373/Rishab7373/blob/main/computer%20Science%20Engineer%20(1).png)
 <h1>Hi👋I'm Rishab Bachna</h1>
 <h3 align="center"><b>A passionate Software Engineer </b></h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **That‘=’!=‘==’**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Codeforces Profile:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/hitmanrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hitmanrk" height="30" width="40" /></a>
 </p>
