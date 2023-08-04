@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFqkahwXek/UJRBHFO0zMj5ttYN1UVAtQ/view?utm_content=DAFqkahwXek&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![logo](https://github.com/Rishab7373/Rishab7373/blob/main/computer%20Science%20Engineer%20(1).png)
 <h1>Hi👋I'm Rishab Bachna</h1>
 <h3 align="center"><b>A passionate Software Engineer </b></h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
